@@ -1,11 +1,10 @@
-﻿.MyComponentFrame
-{
+﻿.MyComponentFrame {
   border: double gray 3px;
   padding: 3px 7px;
-  background-color: #F0F0F0;
+  background-color: #f0f0f0;
+  color: #f0f0f0;
 }
 
-.MyComponentText
-{
+.MyComponentText {
   font-style: italic;
 }
